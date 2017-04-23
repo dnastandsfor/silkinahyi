@@ -8,11 +8,11 @@ $("#main").after(
 '<p class="fa fa-angle-right"></p>' +
 '</div>' +
 '<div class="scroll-images scrollable-x">' +
- '<a href="https://vk.com/"><img src="//i.imgur.com/NpH61Jl.pngg" class="kek" /></a>' +
-'<a href="https://vk.com/"><img src="//i.imgur.com/NpH61Jl.png" class="kek" /></a>' +
-'<a href="https://vk.com/"><img src="//i.imgur.com/NpH61Jl.png" class="kek" /></a>' +
-'<a href="https://vk.com/"><img src="//i.imgur.com/NpH61Jl.png" class="kek" /></a>' +
-'<a href="https://vk.com/"><img src="//i.imgur.com/NpH61Jl.png" class="kek" /></a>' +
+ '<a href="https://vk.com/"><img src="//i.imgur.com/9PZH4ZI.gif" class="kek" /></a>' +
+'<a href="https://vk.com/"><img src="//i.imgur.com/9PZH4ZI.gif" class="kek" /></a>' +
+'<a href="https://vk.com/"><img src="//i.imgur.com/9PZH4ZI.gif" class="kek" /></a>' +
+'<a href="https://vk.com/"><img src="//i.imgur.com/9PZH4ZI.gif" class="kek" /></a>' +
+'<a href="https://vk.com/"><img src="//i.imgur.com/9PZH4ZI.gif" class="kek" /></a>' +
 
 '</div></div></div>');
 // The HorizontalScroller Class accepts a jQuery object as its only argument
