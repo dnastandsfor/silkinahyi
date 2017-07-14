@@ -8,11 +8,11 @@ $("#main").after(
 '<p class="fa fa-angle-right"></p>' +
 '</div>' +
 '<div class="scroll-images scrollable-x">' +
- '<a href="https://cytu.be/r/hyivstokane/"><img src="//i.imgur.com/yLLNCsh.gif" class="kek" /></a>' +
-'<a href="https://cytu.be/r/hyivstokane/"><img src="//i.imgur.com/yLLNCsh.gif" class="kek" /></a>' +
-'<a href="https://cytu.be/r/hyivstokane/"><img src="//i.imgur.com/yLLNCsh.gif" class="kek" /></a>' +
-'<a href="https://cytu.be/r/hyivstokane/"><img src="//i.imgur.com/yLLNCsh.gif" class="kek" /></a>' +
-'<a href="https://cytu.be/r/hyivstokane/"><img src="//i.imgur.com/yLLNCsh.gif" class="kek" /></a>' +
+ '<a href="https://cytu.be/r/hyivstokane/"><img src="//s-media-cache-ak0.pinimg.com/originals/13/7c/a9/137ca9e2a4de70b11d0ae475997e8004.gif" class="kek" /></a>' +
+'<a href="https://cytu.be/r/hyivstokane/"><img src="//s-media-cache-ak0.pinimg.com/originals/13/7c/a9/137ca9e2a4de70b11d0ae475997e8004.gif" class="kek" /></a>' +
+'<a href="https://cytu.be/r/hyivstokane/"><img src="//s-media-cache-ak0.pinimg.com/originals/13/7c/a9/137ca9e2a4de70b11d0ae475997e8004.gif" class="kek" /></a>' +
+'<a href="https://cytu.be/r/hyivstokane/"><img src="//s-media-cache-ak0.pinimg.com/originals/13/7c/a9/137ca9e2a4de70b11d0ae475997e8004.gif" class="kek" /></a>' +
+'<a href="https://cytu.be/r/hyivstokane/"><img src="//s-media-cache-ak0.pinimg.com/originals/13/7c/a9/137ca9e2a4de70b11d0ae475997e8004.gif" class="kek" /></a>' +
 
 '</div></div></div>');
 // The HorizontalScroller Class accepts a jQuery object as its only argument
